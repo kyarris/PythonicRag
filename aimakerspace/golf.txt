@@ -1,0 +1,29 @@
+Golf Club Yardages
+
+Driver: The driver is typically the longest club in a golfer's bag and is used for tee shots on long holes. The average yardage for a driver ranges from 230 to 300 yards, depending on the player's skill level and strength.
+
+3-Wood: The 3-wood is used for long shots from the fairway or tee. It generally covers a distance of 210 to 250 yards.
+
+5-Wood: The 5-wood is slightly shorter than the 3-wood and is used for long fairway shots. Its yardage ranges from 200 to 240 yards.
+
+3-Iron: The 3-iron is a long iron used for shots requiring distance and accuracy. It typically covers 180 to 220 yards.
+
+4-Iron: The 4-iron is used for long approach shots and has a yardage range of 170 to 210 yards.
+
+5-Iron: The 5-iron is a versatile club used for various shots, covering 160 to 200 yards.
+
+6-Iron: The 6-iron is used for mid-range shots and has a yardage range of 150 to 190 yards.
+
+7-Iron: The 7-iron is commonly used for approach shots and covers 140 to 180 yards.
+
+8-Iron: The 8-iron is used for shorter approach shots, with a yardage range of 130 to 170 yards.
+
+9-Iron: The 9-iron is used for short approach shots and covers 120 to 160 yards.
+
+Pitching Wedge: The pitching wedge is used for short approach shots and chips around the green. It typically covers 110 to 150 yards.
+
+Sand Wedge: The sand wedge is designed for bunker shots and short approach shots. Its yardage ranges from 80 to 120 yards.
+
+Lob Wedge: The lob wedge is used for high, short shots around the green. It covers 60 to 100 yards.
+
+Note: Yardages can vary based on the player's skill level, weather conditions, and other factors.
